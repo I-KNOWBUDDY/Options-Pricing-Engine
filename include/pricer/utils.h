@@ -1,7 +1,3 @@
-//
-// Created by Yusufu Shehu on 18/01/2025.
-//
-
 #ifndef OPTIONS_PRICER_UTILS_H
 #define OPTIONS_PRICER_UTILS_H
 

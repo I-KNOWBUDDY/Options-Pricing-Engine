@@ -1,6 +1,3 @@
-//
-// Created by Yusufu Shehu on 18/01/2025.
-//
 #include "pricer/black_scholes.h"
 #include <cmath>
 #include <iomanip>
